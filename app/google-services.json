@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907738150495",
+    "project_id": "deagle-9bd37",
+    "storage_bucket": "deagle-9bd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907738150495:android:bb67c3d682d56fbe914dea",
+        "android_client_info": {
+          "package_name": "com.aditya.deagle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907738150495-gtfq377cq16kfk2fdiilju244cs3rb8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHtma_as2wtPqC7QdCfYy_cILFmeYq6rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907738150495-gtfq377cq16kfk2fdiilju244cs3rb8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
